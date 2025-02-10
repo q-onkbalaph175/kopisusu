@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="D R S N" ca="0" continent_code="ID" country="01" country_code="ID" ip="149.56.14.62" port="60063" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
+<server name="Radio Sahabat Jateng" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="2244" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 </servers>
   
 
