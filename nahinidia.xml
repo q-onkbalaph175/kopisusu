@@ -4,7 +4,9 @@
 <server name="Radio Suara Merpati" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="3012" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 <server name="Radio ORPI" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="9988" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 <server name="Radio Anak Bangsa" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="10204" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
+<server name="Radio WINNERS" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="6407" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 </servers>
+  
   
   
   
