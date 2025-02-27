@@ -9,7 +9,11 @@
 <server name="Radio Langit Nusantara" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="2204" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 <server name="Radio Mobile Komunikasi" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="64738" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 <server name="Radio Batang Hari Jambi" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="1982" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
+<server name="Radio MEGA" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="42664" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
+<server name="Radio Alfa" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="3058" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 </servers>
+  
+  
   
   
   
