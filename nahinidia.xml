@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="Radio Digital Community" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="1234" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
+<server name="Radio Digital Community" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="4455" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 <server name="Radio Sahabat Jateng" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="2244" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 <server name="Radio Suara Merpati" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="3012" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
 <server name="Radio ORPI" ca="0" continent_code="ID" country="01" country_code="ID" ip="128.199.137.51" port="9988" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
