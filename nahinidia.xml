@@ -1,16 +1,18 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="RAB" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="8575" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="SSJ" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="2244" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="Alfawella" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="3058" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="DRM" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="4455" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="Swara Merpati" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="3012" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="Orpi" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="9988" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="Winners" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="6407" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="LaNus" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="2204" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="RKM" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="64738" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="Magnet" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="42664" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
-<server name="DSP" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="50003" region="Rakomnet regional" url="http://dap5-radio.mobie.in" token=""/>
+<server name="RAB" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="8575" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="SSJ" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="2244" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="Alfawella" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="3058" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="DRM" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="4455" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="Swara Merpati" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="3012" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="Orpi" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="9988" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="Winners" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="6407" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="LaNus" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="2204" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="RKM" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="64738" region="Rmars" url="http://beve-studio.my.id" token=""/>
+<server name="Magnet" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="42664" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="DSP" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="50003" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="RMI" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="33544" region="mars" url="http://beve-studio.my.id" token=""/>
+</servers>
 </servers>
   
   
