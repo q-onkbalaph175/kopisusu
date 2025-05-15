@@ -2,14 +2,14 @@
 <servers>
 <server name="RAB" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="8575" region="mars" url="http://beve-studio.my.id" token=""/>
 <server name="SSJ" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="2244" region="mars" url="http://beve-studio.my.id" token=""/>
-<server name="Alfawella" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="3058" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="ALFAWELLA" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="3058" region="mars" url="http://beve-studio.my.id" token=""/>
 <server name="DRM" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="4455" region="mars" url="http://beve-studio.my.id" token=""/>
-<server name="Swara Merpati" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="3012" region="mars" url="http://beve-studio.my.id" token=""/>
-<server name="Orpi" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="9988" region="mars" url="http://beve-studio.my.id" token=""/>
-<server name="Winners" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="6407" region="mars" url="http://beve-studio.my.id" token=""/>
-<server name="LaNus" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="2204" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="RSM" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="3012" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="ORPI" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="9988" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="WINNERS" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="6407" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="LANUS" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="2204" region="mars" url="http://beve-studio.my.id" token=""/>
 <server name="RKM" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="64738" region="mars" url="http://beve-studio.my.id" token=""/>
-<server name="Magnet" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="42664" region="mars" url="http://beve-studio.my.id" token=""/>
+<server name="MAGNET" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="42664" region="mars" url="http://beve-studio.my.id" token=""/>
 <server name="DSP" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="50003" region="mars" url="http://beve-studio.my.id" token=""/>
 <server name="RMI" ca="0" continent_code="ID" country="01" country_code="ID" ip="139.59.99.230" port="33544" region="mars" url="http://beve-studio.my.id" token=""/>
 </servers>
