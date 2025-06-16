@@ -1,5 +1,13 @@
-<?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="Radio Virtual Indonesia" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="45405" region="radio virtual indonesia" url="http://mb.puma-network.net" token=""/>
-<server name="Ngebrik Asik" ca="0" continent_code="ID" country="02" country_code="ID" ip="202.157.177.180" port="64740" region="Ngebrik Asik" url="http://lekdhi.nasional.online" token=""/>
+
+
+
+
+<server name="RAB" ca="0" continent_code="AS" country="klik masuk" country_code="ID" ip="rab-new.my.id" port="8575" region="ID" url="" token=""/>
+
+
+
+
+
+
 </servers>
