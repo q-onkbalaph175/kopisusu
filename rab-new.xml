@@ -1,17 +1,4 @@
 <servers>
-
-
-
-
 <server name="SSJ" ca="0" continent_code="AS" country="klik masuk" country_code="ID" ip="rab-new.my.id" port="2244" region="ID" url="" token=""/>
-
 <server name="RAB" ca="0" continent_code="AS" country="klik masuk" country_code="ID" ip="rab-new.my.id" port="8575" region="ID" url="" token=""/>
-
-
-
-
-
-
-
-
 </servers>
