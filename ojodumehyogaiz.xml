@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes'?> 
 <servers> 
-<server name="RUANG MEETING ADMIN" ca="0" continent_code="ID" country="09" country_code="ID" ip="128.199.137.51" port="20230" region="briker" url="http://mumble-us.cleanvoice.com" token=""/>
+<server name="ALFAWELLA" ca="0" continent_code="ID" country="09" country_code="ID" ip="beve-studio.my.id" port="3058" region="briker" url="https://beve-studio.my.id" token=""/>
 </servers>
 
  
