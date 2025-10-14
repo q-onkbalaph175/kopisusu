@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes'?> 
 <servers> 
-<server name="ALFAWELLA" ca="0" continent_code="ID" country="09" country_code="ID" ip="beve-studio.my.id" port="1234" region="briker" url="https://beve-studio.my.id" token=""/>
+<server name="ALFAWELLA" ca="0" continent_code="ID" country="09" country_code="ID" ip="beve-studio.my.id" port="3058" region="briker" url="https://beve-studio.my.id" token=""/>
 </servers>
 
  
